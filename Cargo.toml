@@ -1,0 +1,9 @@
+[package]
+name = "rust-try-out"
+version = "0.1.0"
+authors = ["Alejo <alejandro.castanor@udea.edu.co>", "Angélica <angelica.arroyavem@udea.edu.co>", "Estefa <estefany.muriel@udea.edu.co>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

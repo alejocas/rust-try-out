@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79cab35a-2ce9-432c-a052-5a7edef80a7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="sgj4yzbs" />
+  </component>
+  <component name="ProjectId" id="1c2d7w3HEPGQA00xpGKgAj2N3If" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79cab35a-2ce9-432c-a052-5a7edef80a7f" name="Default Changelist" comment="" />
+      <created>1589730458601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589730458601</updated>
+      <workItem from="1589730459973" duration="499000" />
+      <workItem from="1589730972782" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589731004243">
+      <screen x="39" y="0" width="1881" height="1080" />
+    </state>
+    <state x="437" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1366.768/39.0.1881.1080@39.0.1881.1080" timestamp="1589731004243" />
+    <state x="767" y="298" key="FileChooserDialogImpl" timestamp="1589730722895">
+      <screen x="39" y="0" width="1881" height="1080" />
+    </state>
+    <state x="767" y="298" key="FileChooserDialogImpl/1920.0.1366.768/39.0.1881.1080@39.0.1881.1080" timestamp="1589730722895" />
+    <state width="1835" height="284" key="GridCell.Tab.0.bottom" timestamp="1589731572767">
+      <screen x="39" y="0" width="1881" height="1080" />
+    </state>
+    <state width="1835" height="284" key="GridCell.Tab.0.bottom/1920.0.1366.768/39.0.1881.1080@39.0.1881.1080" timestamp="1589731572767" />
+    <state width="1835" height="284" key="GridCell.Tab.0.center" timestamp="1589731572766">
+      <screen x="39" y="0" width="1881" height="1080" />
+    </state>
+    <state width="1835" height="284" key="GridCell.Tab.0.center/1920.0.1366.768/39.0.1881.1080@39.0.1881.1080" timestamp="1589731572766" />
+    <state width="1835" height="284" key="GridCell.Tab.0.left" timestamp="1589731572766">
+      <screen x="39" y="0" width="1881" height="1080" />
+    </state>
+    <state width="1835" height="284" key="GridCell.Tab.0.left/1920.0.1366.768/39.0.1881.1080@39.0.1881.1080" timestamp="1589731572766" />
+    <state width="1835" height="284" key="GridCell.Tab.0.right" timestamp="1589731572766">
+      <screen x="39" y="0" width="1881" height="1080" />
+    </state>
+    <state width="1835" height="284" key="GridCell.Tab.0.right/1920.0.1366.768/39.0.1881.1080@39.0.1881.1080" timestamp="1589731572766" />
+  </component>
+</project>
